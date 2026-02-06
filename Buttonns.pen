@@ -1,0 +1,305 @@
+{
+  "version": "2.6",
+  "children": [
+    {
+      "type": "frame",
+      "id": "bi8Au",
+      "x": 0,
+      "y": 0,
+      "name": "Frame",
+      "clip": true,
+      "width": 800,
+      "height": 600,
+      "fill": "#FFFFFF",
+      "layout": "none"
+    },
+    {
+      "type": "frame",
+      "id": "Ay1R2",
+      "x": 57,
+      "y": 116,
+      "name": "Type=Primary, Button Color=Primary Purple, State=Default, Disabled=False",
+      "width": 343,
+      "height": 36,
+      "fill": "#38539aff",
+      "cornerRadius": 32,
+      "gap": 8,
+      "padding": [
+        9,
+        16
+      ],
+      "justifyContent": "center",
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "fEwbf",
+          "name": "Content",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "gap": 8,
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "KREvx",
+              "name": " copy",
+              "enabled": false,
+              "fill": "#ffffffff",
+              "content": "shopping-cart",
+              "textAlign": "center",
+              "textAlignVertical": "middle",
+              "fontFamily": "Font Awesome 6 Pro",
+              "fontSize": 14,
+              "fontWeight": "normal",
+              "letterSpacing": 0.1679999977350235
+            },
+            {
+              "type": "text",
+              "id": "W4dvG",
+              "name": "Button",
+              "fill": "#ffffffff",
+              "content": "Button",
+              "lineHeight": 1.2857142857142858,
+              "textAlign": "center",
+              "fontFamily": "GT Walsheim Pro",
+              "fontSize": 14,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "fHSDG",
+              "name": " copy",
+              "enabled": false,
+              "fill": "#ffffffff",
+              "content": "shopping-cart",
+              "textAlign": "center",
+              "textAlignVertical": "middle",
+              "fontFamily": "Font Awesome 6 Pro",
+              "fontSize": 14,
+              "fontWeight": "normal",
+              "letterSpacing": 0.1679999977350235
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "pF3Cd",
+      "x": 57,
+      "y": 179,
+      "name": "Type=Primary, Button Color=Black, State=Default, Disabled=False",
+      "width": 343,
+      "height": 36,
+      "fill": "#2c2c2cff",
+      "cornerRadius": 32,
+      "gap": 8,
+      "padding": [
+        9,
+        16
+      ],
+      "justifyContent": "center",
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "neayc",
+          "name": "Content",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "gap": 8,
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "nFhMe",
+              "name": " copy",
+              "enabled": false,
+              "fill": "#ffffffff",
+              "content": "shopping-cart",
+              "textAlign": "center",
+              "textAlignVertical": "middle",
+              "fontFamily": "Font Awesome 6 Pro",
+              "fontSize": 14,
+              "fontWeight": "normal",
+              "letterSpacing": 0.1679999977350235
+            },
+            {
+              "type": "text",
+              "id": "5sn6h",
+              "name": "Button",
+              "fill": "#ffffffff",
+              "content": "Button",
+              "lineHeight": 1.2857142857142858,
+              "textAlign": "center",
+              "fontFamily": "GT Walsheim Pro",
+              "fontSize": 14,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "bDSIA",
+              "name": " copy",
+              "enabled": false,
+              "fill": "#ffffffff",
+              "content": "shopping-cart",
+              "textAlign": "center",
+              "textAlignVertical": "middle",
+              "fontFamily": "Font Awesome 6 Pro",
+              "fontSize": 14,
+              "fontWeight": "normal",
+              "letterSpacing": 0.1679999977350235
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "ogHji",
+      "x": 57,
+      "y": 258,
+      "name": "Device=Mobile (14px), Left Aligned Text=True, Centered Text=False, Selected Purple=True, Selected Blue=False, Selected Black=False, Disabled=False",
+      "width": 343,
+      "fill": "#f1f2ffff",
+      "cornerRadius": 12,
+      "stroke": {
+        "align": "inside",
+        "thickness": 2,
+        "fill": "#38539aff"
+      },
+      "gap": 12,
+      "padding": [
+        12,
+        16
+      ],
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "text",
+          "id": "JMRe4",
+          "name": "Main Text",
+          "fill": "#38539aff",
+          "textGrowth": "fixed-width-height",
+          "width": "fill_container",
+          "height": 20,
+          "content": "Your selection text here",
+          "lineHeight": 1.2857142857142858,
+          "fontFamily": "GT Walsheim Pro",
+          "fontSize": 14,
+          "fontWeight": "500"
+        },
+        {
+          "type": "frame",
+          "id": "HcqHv",
+          "name": "GCC/Icons/Main for all use",
+          "fill": {
+            "type": "color",
+            "color": "#ffffffff",
+            "enabled": false
+          },
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "layout": "vertical",
+          "gap": 10,
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "QqNIJ",
+              "name": "Icon Text",
+              "fill": "#38539aff",
+              "content": "",
+              "textAlign": "center",
+              "textAlignVertical": "middle",
+              "fontFamily": "Font Awesome 6 Pro",
+              "fontSize": 14,
+              "fontWeight": "normal",
+              "letterSpacing": 0.1599999964237213
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "KAHgZ",
+      "x": 57,
+      "y": 313,
+      "name": "Device=Mobile (14px), Left Aligned Text=True, Centered Text=False, Selected Purple=False, Selected Blue=True, Selected Black=False, Disabled=False",
+      "width": 343,
+      "fill": "#e5fdffff",
+      "cornerRadius": 12,
+      "stroke": {
+        "align": "inside",
+        "thickness": 2,
+        "fill": "#00857fff"
+      },
+      "gap": 12,
+      "padding": [
+        12,
+        16
+      ],
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "text",
+          "id": "ouvPg",
+          "name": "Main Text",
+          "fill": "#2c2c2cff",
+          "textGrowth": "fixed-width-height",
+          "width": "fill_container",
+          "height": 20,
+          "content": "Your selection text here",
+          "lineHeight": 1.2857142857142858,
+          "fontFamily": "GT Walsheim Pro",
+          "fontSize": 14,
+          "fontWeight": "500"
+        },
+        {
+          "type": "frame",
+          "id": "vuPhv",
+          "name": "GCC/Icons/Main for all use",
+          "fill": {
+            "type": "color",
+            "color": "#ffffffff",
+            "enabled": false
+          },
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "layout": "vertical",
+          "gap": 10,
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "4Wb46",
+              "name": "Icon Text",
+              "fill": "#2c2c2cff",
+              "content": "",
+              "textAlign": "center",
+              "textAlignVertical": "middle",
+              "fontFamily": "Font Awesome 6 Pro",
+              "fontSize": 14,
+              "fontWeight": "normal",
+              "letterSpacing": 0.1599999964237213
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
